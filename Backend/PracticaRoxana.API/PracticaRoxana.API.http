@@ -1,0 +1,6 @@
+@PracticaRoxana.API_HostAddress = http://localhost:5170
+
+GET {{PracticaRoxana.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
